@@ -1,0 +1,28 @@
+﻿.about-section{
+    margin:2rem 0;
+    display:flex;
+    flex-grow:1;
+    flex-wrap:wrap;
+    padding:5px;
+    flex-direction:column;
+    align-content:center;
+}
+
+.about-section-title{
+    transform:rotate(-20deg);
+    background:#fff;
+    justify-content:center;
+    padding:5px;
+    width:6rem;
+    border:5px solid #000;
+}
+
+.about-section-detail {
+    padding: 3rem;
+    width: 30vw;
+    background: #fff;
+    border-radius: 2rem 0;
+    box-shadow: 0px 3px 12px 0px #ccc;
+    border: 1px solid transparent;
+}
+

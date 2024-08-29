@@ -1,0 +1,29 @@
+﻿.star {
+    position: fixed;
+    top: 0;
+    color: #FFFF00;
+    width: 20px;
+    height: 20px;
+    animation: animate 5s linear infinite;
+    z-index: -9999;
+}
+    .star::before {
+        content: '\f005';
+        font-family: fontAwesome;
+        text-shadow: 0 0 5px #ffd800, 0 0 20px #FFFF00, 0 0 50px #FFFF00;
+    }
+
+    @keyframes animate
+    {
+        0%{
+            transform:translateY(0) rotate(0deg);
+            opacity:1;
+          }
+        80%{
+            opacity:1;
+        }
+        100%{
+            transform:translateY(100vh) rotate(360deg);
+            opacity:0;
+            }
+    }

@@ -1,0 +1,8 @@
+C:\Users\znier\source\repos\OKProfile\obj\Debug\net8.0\PubTmp\Out\OKProfile.exe
+C:\Users\znier\source\repos\OKProfile\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\znier\source\repos\OKProfile\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\znier\source\repos\OKProfile\obj\Debug\net8.0\PubTmp\Out\wwwroot\js\fallingStars.js
+C:\Users\znier\source\repos\OKProfile\obj\Debug\net8.0\PubTmp\Out\OKProfile.dll
+C:\Users\znier\source\repos\OKProfile\obj\Debug\net8.0\PubTmp\Out\OKProfile.deps.json
+C:\Users\znier\source\repos\OKProfile\obj\Debug\net8.0\PubTmp\Out\OKProfile.runtimeconfig.json
+C:\Users\znier\source\repos\OKProfile\obj\Debug\net8.0\PubTmp\Out\OKProfile.pdb

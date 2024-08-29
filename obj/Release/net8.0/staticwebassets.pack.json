@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\OKProfile.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OKProfile.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\experience.css",
+      "PackagePath": "staticwebassets\\css\\experience.css"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\fallingStar.css",
+      "PackagePath": "staticwebassets\\css\\fallingStar.css"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\close.png",
+      "PackagePath": "staticwebassets\\lib\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\close.svg",
+      "PackagePath": "staticwebassets\\lib\\close.svg"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\line.png",
+      "PackagePath": "staticwebassets\\lib\\line.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\linkedin.png",
+      "PackagePath": "staticwebassets\\lib\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\logo1.png",
+      "PackagePath": "staticwebassets\\lib\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\logo2.png",
+      "PackagePath": "staticwebassets\\lib\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\logo3.png",
+      "PackagePath": "staticwebassets\\lib\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\logo4.png",
+      "PackagePath": "staticwebassets\\lib\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\logo5.png",
+      "PackagePath": "staticwebassets\\lib\\logo5.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\logo6.png",
+      "PackagePath": "staticwebassets\\lib\\logo6.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\menu.png",
+      "PackagePath": "staticwebassets\\lib\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\menu.svg",
+      "PackagePath": "staticwebassets\\lib\\menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\php.png",
+      "PackagePath": "staticwebassets\\lib\\php.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\profile.png",
+      "PackagePath": "staticwebassets\\lib\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\python.png",
+      "PackagePath": "staticwebassets\\lib\\python.png"
+    },
+    {
+      "Id": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\site.png",
+      "PackagePath": "staticwebassets\\lib\\site.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.OKProfile.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.OKProfile.props",
+      "PackagePath": "build\\OKProfile.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OKProfile.props",
+      "PackagePath": "buildMultiTargeting\\OKProfile.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.OKProfile.props",
+      "PackagePath": "buildTransitive\\OKProfile.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

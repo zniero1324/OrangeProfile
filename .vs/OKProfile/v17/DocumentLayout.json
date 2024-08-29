@@ -1,0 +1,519 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\znier\\source\\repos\\OKProfile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\okprofile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:okprofile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\wwwroot\\css\\projects.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:wwwroot\\css\\projects.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\wwwroot\\css\\fallingstar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:wwwroot\\css\\fallingstar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\views\\home\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:views\\home\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\wwwroot\\css\\experience.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:wwwroot\\css\\experience.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\wwwroot\\lib\\1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:wwwroot\\lib\\1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\controllers\\outputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:controllers\\outputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|c:\\users\\znier\\source\\repos\\okprofile\\wwwroot\\js\\fallingstars.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14FCFB04-F7B6-41F7-924C-7B7D0B79DF56}|OKProfile.csproj|solutionrelative:wwwroot\\js\\fallingstars.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\js\\index.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\index.js",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\js\\index.js",
+              "RelativeToolTip": "wwwroot\\js\\index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-26T11:25:35.188Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T08:06:26.871Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Controllers\\EmailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:37:33.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T08:06:21.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OKProfile",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\OKProfile.csproj",
+              "RelativeDocumentMoniker": "OKProfile.csproj",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\OKProfile.csproj",
+              "RelativeToolTip": "OKProfile.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T04:31:21.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailModel.cs",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Models\\EmailModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmailModel.cs",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Models\\EmailModel.cs",
+              "RelativeToolTip": "Models\\EmailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:36:25.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "Views\\Home\\Projects.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:02:57.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\index.css",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\index.css",
+              "RelativeToolTip": "wwwroot\\css\\index.css",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-26T10:09:10.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T10:08:25.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fallingStar.css",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\fallingStar.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\fallingStar.css",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\fallingStar.css",
+              "RelativeToolTip": "wwwroot\\css\\fallingStar.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-26T08:06:43.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Experience.cshtml",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Home\\Experience.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Experience.cshtml",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Home\\Experience.cshtml",
+              "RelativeToolTip": "Views\\Home\\Experience.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T04:14:40.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:15:33.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "about.css",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\about.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\about.css",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\about.css",
+              "RelativeToolTip": "wwwroot\\css\\about.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-26T08:06:39.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:16:07.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "projects.css",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\projects.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\projects.css",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\projects.css",
+              "RelativeToolTip": "wwwroot\\css\\projects.css",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-28T07:09:51.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAF0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T11:28:03.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "experience.css",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\experience.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\experience.css",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\experience.css",
+              "RelativeToolTip": "wwwroot\\css\\experience.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-26T08:06:34.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "1.png",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\1.png",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\1.png",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\lib\\1.png",
+              "RelativeToolTip": "wwwroot\\lib\\1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-28T14:39:19.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OutputController.cs",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Controllers\\OutputController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OutputController.cs",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Controllers\\OutputController.cs",
+              "RelativeToolTip": "Controllers\\OutputController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:20:37.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T18:01:51.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T18:11:05.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "contact.css",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\contact.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\contact.css",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\css\\contact.css",
+              "RelativeToolTip": "wwwroot\\css\\contact.css",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T07:03:46.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T04:15:24.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T18:11:01.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T04:15:22.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T12:09:36.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:08:34.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "fallingStars.js",
+              "DocumentMoniker": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\js\\fallingStars.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\fallingStars.js",
+              "ToolTip": "C:\\Users\\znier\\source\\repos\\OKProfile\\wwwroot\\js\\fallingStars.js",
+              "RelativeToolTip": "wwwroot\\js\\fallingStars.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-26T11:25:58.025Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 458,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
